@@ -9749,6 +9749,11 @@ strapi-plugin-image-optimizer@^2.2.1:
   resolved "https://registry.yarnpkg.com/strapi-plugin-image-optimizer/-/strapi-plugin-image-optimizer-2.2.1.tgz#f6e7a7d6081b78b35c3ed8884c7317bd04e96cd4"
   integrity sha512-zflvTam9I0NRrdq3Yn/1fRXfZL+1gkrUf/r37Tnixjpw6LZiLxbOS6Xok23Gb42Q4LdmNjfwkmGnMRurYUg0ow==
 
+strapi-plugin-responsive-image@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/strapi-plugin-responsive-image/-/strapi-plugin-responsive-image-1.2.0.tgz#f01b319f23f30fb0031e900af8364a3b646b8b69"
+  integrity sha512-8+0W2A10fFGuEZW8fl8bilcJeosMJpnBxEF6NpJxxigpCo2kfKzHQ/gnV5TOw1nynRGEqHdUShvrnwLa2uLceA==
+
 stream-chain@2.2.5, stream-chain@^2.2.5:
   version "2.2.5"
   resolved "https://registry.yarnpkg.com/stream-chain/-/stream-chain-2.2.5.tgz#b30967e8f14ee033c5b9a19bbe8a2cba90ba0d09"
